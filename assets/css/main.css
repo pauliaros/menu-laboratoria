@@ -1,0 +1,27 @@
+body {
+	margin: 0 auto;
+	padding: 0;
+	font-family: 'Montserrat', sans-serif;
+}
+.navbar{
+	background-color: #DD8282;
+	width: 100%;
+	color: whitesmoke;
+}
+
+
+ a{
+	text-decoration: none;
+	padding: 25px;
+	color: whitesmoke;
+	display: inline-block;
+	margin: 0 20px;
+	font-size: 17px;
+	cursor: pointer;
+}
+
+
+a:hover{
+	background-color: #E7ADAD;
+}
+
